@@ -10,7 +10,8 @@ This is an open-source discord moderation bot written in python. Follow the inst
 
 ## Getting Started
 
-1) Copy the code in the code.py  in this repositry (Link to code.py --> 
+1) Copy the code in the code.py  in this repositry (Link to code.py --> https://github.com/Ribzzard/Moderation-Bot/blob/main/code.py
+2) 
 
 ## Commands
 Pre-existing commands are listed below - 

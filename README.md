@@ -7,6 +7,11 @@ This is an open-source discord moderation bot written in python. Follow the inst
 2) Discord account for developed portal
 3) Uptime Robot account
 
+
+## Getting Started
+
+1) Copy the code in the main.py file in this repositry (Link to main.py -- 
+
 ## Commands
 Pre-existing commands are listed below - 
 1) Ban (?ban)
@@ -16,10 +21,3 @@ Pre-existing commands are listed below -
 5) Add banned word (?addbannedword)
 6) Remove banned word (?removebannedword)
 
-## Getting started
-
-### Hosting the bot
-We will be using https://replit.com/ , a browser based IDE to host our bot. If you do not have an account, please create one.
-
-Create a new Repl in replit with the selected language as python.
-Copy paste the code 

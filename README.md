@@ -1,24 +1,13 @@
 # Moderation-Bot
 
-This is an open-source discord moderation bot written in python. Follow the instructions **carefully** to set up your bot. The code written is simple and very easy to understand so changs can be made easily 
+This is an open-source discord moderation bot written in python. Follow the instructions **carefully** to set up your bot. The code written is simple and very easy to understand so changes can be made easily.
 
-## Requirments
-1) Replit account
-2) Discord account for developed portal
-3) Uptime Robot account
+## Introduction
+This manual has two main sections : 1) Basic Setup Guide 2) Advanced documentation. The Basic Setup Guide doesn't offer much detail, but provides clear instructions on how to set up your bot. The Advanced Documentation has in-depth understanding of the code. If you would fully like to customize this code, **read the Advanced Documentation** as it makes changing and cuztomizing the code super-easy.
 
-
-## Getting Started
-
-1) Copy the code in the code.py  in this repositry (Link to code.py --> https://github.com/Ribzzard/Moderation-Bot/blob/main/code.py
-2) 
-
-## Commands
-Pre-existing commands are listed below - 
-1) Ban (?ban)
-2) Kick (?kick)
-3) Botinfo (?botinfo)
-4) Rules (?rules)
-5) Add banned word (?addbannedword)
-6) Remove banned word (?removebannedword)
+## Requirements 
+1) Basic knowledge and understanding of python.
+2) A Discord account
+3) A Replit account
+4) An Uptime Robot account
 

@@ -21,5 +21,5 @@ The Basic Setup Guide doesn't offer much detail, but provides clear instructions
 
 #### Creating a discord bot
 
-To create your bot , head over to https://discord.com/developers/. 
+To create your bot , head over to https://discord.com/developers/. On the top-right corner, click " New Application ". Give it a name , most preferably the server you are planning to use the bot in + Moderation Bot. (Example : If my server's name is Solaris , I would name my bot " Solaris Moderation Bot ")
 

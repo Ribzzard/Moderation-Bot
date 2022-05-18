@@ -1,6 +1,6 @@
 # Moderation-Bot
 
-This is an open-source discord moderation bot written in python. Follow the instructions **carefully** to set up your bot.
+This is an open-source discord moderation bot written in python. Follow the instructions **carefully** to set up your bot. The code written is simple and very easy to understand so changs can be made easily 
 
 ## Requirments
 1) Replit account
